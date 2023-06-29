@@ -8,8 +8,25 @@
 import SwiftUI
 
 struct YeoniView: View {
+    
+    // StardewValley(name: <#T##String#>, sex: <#T##String#>, birthday: <#T##String#>, liked: <#T##[String]#>)
+    
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack {
+            List(villagers) { lover in
+                NavigationLink {
+                    YeoniDetailView(villagerName: "\(lover.name)", sex: "\(lover.sex)", birthday: "\(lover.birthday)", liked: lover.liked)
+                } label: {
+                    Text("\(lover.name)")
+                        .font(.headline)
+                    Text(" \(lover.sex)")
+                        .font(.caption)
+                }
+            }
+            .navigationTitle("StardewValley")
+        }
+        
     }
 }
 
