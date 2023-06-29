@@ -13,18 +13,13 @@
 		0CA56D662A4D9B0200436813 /* SeolahView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA56D652A4D9B0200436813 /* SeolahView.swift */; };
 		0CA56D682A4D9B1D00436813 /* YeoniView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA56D672A4D9B1D00436813 /* YeoniView.swift */; };
 		0CA56D6A2A4D9B3D00436813 /* GyeonghwanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA56D692A4D9B3D00436813 /* GyeonghwanView.swift */; };
-<<<<<<< HEAD
-<<<<<<< HEAD
+		9F0312312A4DA55600EA4CB2 /* KanghoPokemons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */; };
+		9F0312332A4DAD7300EA4CB2 /* KanghoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */; };
 		99C6DF932A4DA2C400BDC295 /* SeokhoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99C6DF922A4DA2C400BDC295 /* SeokhoModel.swift */; };
 		99C6DF952A4DAA6F00BDC295 /* SeokhoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99C6DF942A4DAA6F00BDC295 /* SeokhoDetailView.swift */; };
 		21524A3B2A4DB14F00EFA620 /* SeolahDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21524A3A2A4DB14F00EFA620 /* SeolahDetailView.swift */; };
-
-=======
 		9F0312312A4DA55600EA4CB2 /* KanghoPokemons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */; };
 		9F0312332A4DAD7300EA4CB2 /* KanghoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */; };
->>>>>>> 04d9d7c (add KanghoView, KanghoDetailView, KanghoPokemons)
-=======
->>>>>>> e884251 (Revert "add KanghoView, KanghoDetailView, KanghoPokemons")
 		9FF1CB632A4D943600D8236E /* viosionNavigationPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF1CB622A4D943600D8236E /* viosionNavigationPracticeApp.swift */; };
 		9FF1CB652A4D943600D8236E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF1CB642A4D943600D8236E /* ContentView.swift */; };
 		9FF1CB672A4D943600D8236E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FF1CB662A4D943600D8236E /* Assets.xcassets */; };
@@ -40,18 +35,13 @@
 		0CA56D652A4D9B0200436813 /* SeolahView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeolahView.swift; sourceTree = "<group>"; };
 		0CA56D672A4D9B1D00436813 /* YeoniView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YeoniView.swift; sourceTree = "<group>"; };
 		0CA56D692A4D9B3D00436813 /* GyeonghwanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GyeonghwanView.swift; sourceTree = "<group>"; };
-<<<<<<< HEAD
-<<<<<<< HEAD
-
+		9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanghoPokemons.swift; sourceTree = "<group>"; };
+		9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanghoDetailView.swift; sourceTree = "<group>"; };
 		99C6DF922A4DA2C400BDC295 /* SeokhoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeokhoModel.swift; sourceTree = "<group>"; };
 		99C6DF942A4DAA6F00BDC295 /* SeokhoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeokhoDetailView.swift; sourceTree = "<group>"; };
 		21524A3A2A4DB14F00EFA620 /* SeolahDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeolahDetailView.swift; sourceTree = "<group>"; };
-=======
 		9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanghoPokemons.swift; sourceTree = "<group>"; };
 		9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanghoDetailView.swift; sourceTree = "<group>"; };
->>>>>>> 04d9d7c (add KanghoView, KanghoDetailView, KanghoPokemons)
-=======
->>>>>>> e884251 (Revert "add KanghoView, KanghoDetailView, KanghoPokemons")
 		9FF1CB5F2A4D943600D8236E /* viosionNavigationPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = viosionNavigationPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FF1CB622A4D943600D8236E /* viosionNavigationPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viosionNavigationPracticeApp.swift; sourceTree = "<group>"; };
 		9FF1CB642A4D943600D8236E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -86,6 +76,8 @@
 				99C6DF922A4DA2C400BDC295 /* SeokhoModel.swift */,
 				0CA56D612A4D9ADE00436813 /* HyoseokView.swift */,
 				0CA56D692A4D9B3D00436813 /* GyeonghwanView.swift */,
+				9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */,
+				9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */,
 			);
 			path = Team;
 			sourceTree = "<group>";
@@ -198,6 +190,7 @@
 			files = (
 				0CA56D682A4D9B1D00436813 /* YeoniView.swift in Sources */,
 				0CA56D6A2A4D9B3D00436813 /* GyeonghwanView.swift in Sources */,
+				9F0312312A4DA55600EA4CB2 /* KanghoPokemons.swift in Sources */,
 				0CA56D602A4D9ACE00436813 /* KanghoView.swift in Sources */,
 				0CA56D642A4D9AE900436813 /* SeokhoView.swift in Sources */,
 				99C6DF952A4DAA6F00BDC295 /* SeokhoDetailView.swift in Sources */,
@@ -210,6 +203,7 @@
                 21524A3B2A4DB14F00EFA620 /* SeolahDetailView.swift in Sources */,
 				0CA56D662A4D9B0200436813 /* SeolahView.swift in Sources */,
 				9FF1CB632A4D943600D8236E /* viosionNavigationPracticeApp.swift in Sources */,
+				9F0312332A4DAD7300EA4CB2 /* KanghoDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
