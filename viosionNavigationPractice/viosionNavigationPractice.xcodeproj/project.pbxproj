@@ -15,6 +15,11 @@
 		0CA56D6A2A4D9B3D00436813 /* GyeonghwanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA56D692A4D9B3D00436813 /* GyeonghwanView.swift */; };
 		9F0312312A4DA55600EA4CB2 /* KanghoPokemons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */; };
 		9F0312332A4DAD7300EA4CB2 /* KanghoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */; };
+		99C6DF932A4DA2C400BDC295 /* SeokhoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99C6DF922A4DA2C400BDC295 /* SeokhoModel.swift */; };
+		99C6DF952A4DAA6F00BDC295 /* SeokhoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99C6DF942A4DAA6F00BDC295 /* SeokhoDetailView.swift */; };
+		21524A3B2A4DB14F00EFA620 /* SeolahDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21524A3A2A4DB14F00EFA620 /* SeolahDetailView.swift */; };
+		9F0312312A4DA55600EA4CB2 /* KanghoPokemons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */; };
+		9F0312332A4DAD7300EA4CB2 /* KanghoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */; };
 		9FF1CB632A4D943600D8236E /* viosionNavigationPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF1CB622A4D943600D8236E /* viosionNavigationPracticeApp.swift */; };
 		9FF1CB652A4D943600D8236E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF1CB642A4D943600D8236E /* ContentView.swift */; };
 		9FF1CB672A4D943600D8236E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FF1CB662A4D943600D8236E /* Assets.xcassets */; };
@@ -30,6 +35,11 @@
 		0CA56D652A4D9B0200436813 /* SeolahView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeolahView.swift; sourceTree = "<group>"; };
 		0CA56D672A4D9B1D00436813 /* YeoniView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YeoniView.swift; sourceTree = "<group>"; };
 		0CA56D692A4D9B3D00436813 /* GyeonghwanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GyeonghwanView.swift; sourceTree = "<group>"; };
+		9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanghoPokemons.swift; sourceTree = "<group>"; };
+		9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanghoDetailView.swift; sourceTree = "<group>"; };
+		99C6DF922A4DA2C400BDC295 /* SeokhoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeokhoModel.swift; sourceTree = "<group>"; };
+		99C6DF942A4DAA6F00BDC295 /* SeokhoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeokhoDetailView.swift; sourceTree = "<group>"; };
+		21524A3A2A4DB14F00EFA620 /* SeolahDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeolahDetailView.swift; sourceTree = "<group>"; };
 		9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanghoPokemons.swift; sourceTree = "<group>"; };
 		9F0312322A4DAD7300EA4CB2 /* KanghoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanghoDetailView.swift; sourceTree = "<group>"; };
 		9FF1CB5F2A4D943600D8236E /* viosionNavigationPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = viosionNavigationPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -60,7 +70,10 @@
 				D1C9840A2A4DA8A5009CCEB9 /* StardewValley.swift */,
 				D1C984062A4DA3F7009CCEB9 /* YeoniDetailView.swift */,
 				0CA56D652A4D9B0200436813 /* SeolahView.swift */,
+				21524A3A2A4DB14F00EFA620 /* SeolahDetailView.swift */,
 				0CA56D632A4D9AE900436813 /* SeokhoView.swift */,
+				99C6DF942A4DAA6F00BDC295 /* SeokhoDetailView.swift */,
+				99C6DF922A4DA2C400BDC295 /* SeokhoModel.swift */,
 				0CA56D612A4D9ADE00436813 /* HyoseokView.swift */,
 				0CA56D692A4D9B3D00436813 /* GyeonghwanView.swift */,
 				9F0312302A4DA55600EA4CB2 /* KanghoPokemons.swift */,
@@ -180,10 +193,14 @@
 				9F0312312A4DA55600EA4CB2 /* KanghoPokemons.swift in Sources */,
 				0CA56D602A4D9ACE00436813 /* KanghoView.swift in Sources */,
 				0CA56D642A4D9AE900436813 /* SeokhoView.swift in Sources */,
+				99C6DF952A4DAA6F00BDC295 /* SeokhoDetailView.swift in Sources */,
 				0CA56D622A4D9ADE00436813 /* HyoseokView.swift in Sources */,
+
 				D1C9840B2A4DA8A5009CCEB9 /* StardewValley.swift in Sources */,
 				D1C984072A4DA3F7009CCEB9 /* YeoniDetailView.swift in Sources */,
+				99C6DF932A4DA2C400BDC295 /* SeokhoModel.swift in Sources */,
 				9FF1CB652A4D943600D8236E /* ContentView.swift in Sources */,
+                21524A3B2A4DB14F00EFA620 /* SeolahDetailView.swift in Sources */,
 				0CA56D662A4D9B0200436813 /* SeolahView.swift in Sources */,
 				9FF1CB632A4D943600D8236E /* viosionNavigationPracticeApp.swift in Sources */,
 				9F0312332A4DAD7300EA4CB2 /* KanghoDetailView.swift in Sources */,
@@ -323,6 +340,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -330,9 +348,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.kangho.viosionNavigationPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -352,6 +373,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -359,9 +381,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.kangho.viosionNavigationPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
