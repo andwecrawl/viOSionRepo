@@ -178,6 +178,7 @@
 				0CA56D642A4D9AE900436813 /* SeokhoView.swift in Sources */,
 				0CA56D622A4D9ADE00436813 /* HyoseokView.swift in Sources */,
 				9FF1CB652A4D943600D8236E /* ContentView.swift in Sources */,
+                21524A3B2A4DB14F00EFA620 /* SeolahDetailView.swift in Sources */,
 				0CA56D662A4D9B0200436813 /* SeolahView.swift in Sources */,
 				9FF1CB632A4D943600D8236E /* viosionNavigationPracticeApp.swift in Sources */,
 			);
