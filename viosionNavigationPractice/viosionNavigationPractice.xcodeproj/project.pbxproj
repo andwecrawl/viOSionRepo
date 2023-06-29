@@ -207,6 +207,7 @@
 				D1C984072A4DA3F7009CCEB9 /* YeoniDetailView.swift in Sources */,
 				99C6DF932A4DA2C400BDC295 /* SeokhoModel.swift in Sources */,
 				9FF1CB652A4D943600D8236E /* ContentView.swift in Sources */,
+                21524A3B2A4DB14F00EFA620 /* SeolahDetailView.swift in Sources */,
 				0CA56D662A4D9B0200436813 /* SeolahView.swift in Sources */,
 				9FF1CB632A4D943600D8236E /* viosionNavigationPracticeApp.swift in Sources */,
 			);
